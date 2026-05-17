@@ -1,4 +1,4 @@
-package org.example;
+package org.payments;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;

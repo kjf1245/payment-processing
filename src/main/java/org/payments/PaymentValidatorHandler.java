@@ -1,4 +1,4 @@
-package org.example;
+package org.payments;
 
 // 1. Lambda Core & Events (Required for RequestHandler and API Gateway events)
 import com.amazonaws.services.lambda.runtime.Context;
