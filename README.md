@@ -15,7 +15,7 @@ CLIENT
    └─ Returns 202 Accepted immediately
        │
        ▼
-   SQS Queue: cox-payments-queue
+   SQS Queue: payments-queue
    ├─ 15-min visibility timeout
    └─ Max retries: 3
        │
